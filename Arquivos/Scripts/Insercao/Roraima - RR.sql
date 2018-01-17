@@ -1,0 +1,18 @@
+/*
+	Roraima - RR
+*/
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400050,'ALTO ALEGRE','2.9012856','-61.4893361','91','25753,487','ALTO-ALEGRENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400027,'AMAJARI','3.6684841','-61.3541119','89','28472,31','AMAJARIENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400100,'BOA VISTA','2.8235098','-60.6758331','82','5687,037','BOA-VISTENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400159,'BONFIM','3.3612854','-59.8338004','88','8095,421','BONFINENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400175,'CANTÁ','2.6110974','-60.6038353','85','7664,831','CANTAENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400209,'CARACARAÍ','1.8248075','-61.1283967','53','47390,691','CARACARAIENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400233,'CAROEBE','0.88407567','-59.70273159','128','12065,771','CAROEBENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400282,'IRACEMA','2.2053533','-61.0192593','81','14351,133','IRACEMENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400308,'MUCAJAÍ','2.4396912','-60.9096248','80','12351,341','MUCAJAIENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400407,'NORMANDIA','3.8853763','-59.619953','93','6966,811','NORMANDIENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400456,'PACARAIMA','4.4781161','-61.1479728','921','8028,483','PACARAIMENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400472,'RORAINÓPOLIS','0.9396163','-60.4394192','75','33596,525','RORAINOPOLITANO','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400506,'SÃO JOÃO DA BALIZA','0.95109493','-59.91356368','133','4284,502','BALIZIENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400605,'SÃO LUIZ','1.0101819','-60.0419045','111','1526,898','SÃO-LUIZENSE','95',current_timestamp);
+INSERT INTO municipio (cd_estado,cd_municipio,ds_municipio,vl_latitude,vl_longitude,vl_altitude,qt_area,ds_gentilico,nr_ddd,dt_registro)VALUES (14,1400704,'UIRAMUTÃ','4.5920854','-60.1681298','541','8065,564','UIRAMUTANSENSE','95',current_timestamp);
