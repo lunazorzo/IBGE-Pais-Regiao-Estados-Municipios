@@ -1,5 +1,4 @@
 # IBGE-Pais-Regiao-Estados-Municipios
-# IBGE-Pais-Regiao-Estados-Municipios
 As informações foram extraídas do site do IBGE com ajuda de outros sites que estarão descritos abaixo.
 
 Banco de dados contendo todos ase seguintes informações:
